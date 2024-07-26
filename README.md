@@ -17,8 +17,8 @@ npm start
 
 The Application Runs on **localhost:3000**
 
-![screenshot1](src/images/Screenshot(132).PNG)
-![screenshot1](src/images//Screenshot(133).PNG)
-![screenshot1](src/images//Screenshot(134).PNG)
-![screenshot1](src/images//Screenshot(135).PNG)
-![screenshot1](src/images//Screenshot(136).PNG)
+![screenshot1](src/images/Screenshot(132).png)
+![screenshot2](src/images/Screenshot(133).png)
+![screenshot3](src/images/Screenshot(134).png)
+![screenshot4](src/images/Screenshot(135).png)
+![screenshot5](src/images/Screenshot(136).png)
