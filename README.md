@@ -1,4 +1,5 @@
-## Cloning and Running the Application in local
+## G23AI2094 
+Assignment1
 
 Clone the project into local
 
@@ -15,3 +16,9 @@ npm start
 ```
 
 The Application Runs on **localhost:3000**
+
+![screenshot1](Images/Screenshot (132).PNG)
+![screenshot1](Images/Screenshot (133).PNG)
+![screenshot1](Images/Screenshot (134).PNG)
+![screenshot1](Images/Screenshot (135).PNG)
+![screenshot1](Images/Screenshot (136).PNG)
