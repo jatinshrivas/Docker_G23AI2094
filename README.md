@@ -1,7 +1,7 @@
-## G23AI2094 
+## Jatin Shrivas -  G23AI2094 
 Assignment1
 
-Clone the project into local
+Clone the project into local and install for Docker
 
 Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
@@ -17,8 +17,8 @@ npm start
 
 The Application Runs on **localhost:3000**
 
-![screenshot1](Images/Screenshot (132).PNG)
-![screenshot1](Images/Screenshot (133).PNG)
-![screenshot1](Images/Screenshot (134).PNG)
-![screenshot1](Images/Screenshot (135).PNG)
-![screenshot1](Images/Screenshot (136).PNG)
+![screenshot1](src/images/Screenshot(132).PNG)
+![screenshot1](src/images//Screenshot(133).PNG)
+![screenshot1](src/images//Screenshot(134).PNG)
+![screenshot1](src/images//Screenshot(135).PNG)
+![screenshot1](src/images//Screenshot(136).PNG)
